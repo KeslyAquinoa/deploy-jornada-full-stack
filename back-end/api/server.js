@@ -39,4 +39,4 @@ app.listen(PORT, () => {
 
 // Como criar uma API
 // npm install express - Framework
-// node --watch ./api/server.js - faz o Node.js monitorar o arquivo server.js e reiniciar automaticamente sempre que houver alguma alteração. 
+// node --watch ./api/server.js - faz o Node.js monitorar o arquivo server.js e reiniciar automaticamente sempre que houver alguma alteração.  
